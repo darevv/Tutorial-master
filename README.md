@@ -88,3 +88,7 @@ Logins and session files are kept in `~/.config/tut/<project>/`, never in the re
 1. Start VoiceStudio. Boot a simulator (or start your web app's dev server).
 2. In your app's repo, open Claude Code and type `/tut`.
 3. Pick the audience, tick the videos you want, and review each one as it's made.
+
+## License
+
+[MIT](LICENSE)
